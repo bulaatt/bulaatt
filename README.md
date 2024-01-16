@@ -1,7 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&pause=2000&color=E4A61D&center=true&vCenter=true&random=false&width=1100&height=110&lines=iOS+developer)](https://git.io/typing-svg)
-<p align="center">
-       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Teacup%20Without%20Handle.png" alt="Teacup Without Handle" width="180" height="180" />
-</p>
 
 <!--
 **bulaatt/bulaatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
